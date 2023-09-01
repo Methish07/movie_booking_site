@@ -8,7 +8,7 @@ This is a movie booking site project that allows users to browse and book movies
 
 - User Authentication:
   - User login and logout functionality.
-  - User registration (if applicable).
+  - User registration.
 - Movie Booking:
   - Browse available movies.
   - search movies by their name
